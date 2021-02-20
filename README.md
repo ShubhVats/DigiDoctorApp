@@ -175,7 +175,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/ShubhVats4) - shubhvats1811@gmail.com
+Shubh Vats - [@shubhvats4](https://twitter.com/ShubhVats4) - shubhvats1811@gmail.com
 
 Project Link: [https://github.com/ShubhVats/DigiDoctorApp](https://github.com/ShubhVats/DigiDoctorApp)
 
